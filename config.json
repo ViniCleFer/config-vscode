@@ -94,5 +94,20 @@
   "workbench.activityBar.visible": true,
   "window.zoomLevel": 0,
   "workbench.sideBar.location": "left"
+  
+  // Add in Macmini INITIAL
+    "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.rendererType": "dom",
 
+  // Extensão Ricardo Emerson
+  "createReactTSXComponent.fileExtension": "js",
+  "createReactTSXComponent.stylesFormat": "Styled Components",
+
+  "git.showPushSuccessNotification": true,
+
+  // Tabnine Intellisense
+  "tabnine.experimentalAutoImports": true
+ // Add in Macmini FINAL
+  
 }
