@@ -1,26 +1,39 @@
 {
-  Bracket Pair Colorizer,
-  Code Runner,
+  Auto Close Tag,
+  Auto Rename Tag,
+  Bracket Pair Color DLW,
+  Code Runner, *
   Color Highlight,
-  Create React JS and React Native Component - Ricardo Emerson,
+  Create React JS and React Native Component - Ricardo Emerson, *
+  CSS Modeules,
+  Docker,
+  DotEnv,
   Dracula Official,
   EditorConfig for VS Code,
-  Emoji Snippets,
+  Emoji,
+  Emoji Snippets, *
   ESLint,
-  Live Share,
-  Live Share Audio,
-  Live Share Extension Pack,
+  IntelliCode,
+  IntelliCode API Usage Examples,
+  Live Server, *
+  Live Share, *
+  Live Share Audio, *
+  Live Share Extension Pack, *
   Material Icon Theme,
-  Peacock,
+  Monokai Theme = Theme SublimeText *
+  Pack Java, *
+  Pack Spring Boot, *
+  Peacock, *
   Prettier - Code formatter,
-  Python,
-  Rocketseat React Native,
-  Rocketseat ReactJS,
-  SQLite,
+  Prisma,
+  Prisma - Inseider,
+  Python, *
+  R Component,
+  Reload,
+  Rocketseat React Native, *
+  Rocketseat ReactJS, *
+  SQLite, *
+  Svg Preview,
+  Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more,
   vscode-styled-components,
-  Live Server,
-  Tabnine
-  Monokai Theme = Theme SublimeText
-  Pack Java,
-  Pack Spring Boot
 }
